@@ -1,0 +1,3 @@
+rootProject.name='RecyclerView-ItemDecorations'
+include ':app'
+include ':library'
